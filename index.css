@@ -1,0 +1,11 @@
+p{
+    color:aqua
+    ;
+    text-transform: capitalize;
+    font-weight: bolder;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+input{
+    margin-top: -280px;
+}
